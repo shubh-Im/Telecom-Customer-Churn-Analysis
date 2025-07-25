@@ -1,5 +1,3 @@
-# Contract Insights: How Telecom Customers Stay or Leave
-
 # 📉 Contract Insights: How Telecom Customers Stay or Leave
 
 This project explores churn patterns in a telecom company’s customer base using data analytics. The goal is to identify key drivers of churn and propose actionable strategies to improve customer retention.
